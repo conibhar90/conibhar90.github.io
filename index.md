@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[job application code](/sample_page)
+[job application code](/job_application_code.py)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
