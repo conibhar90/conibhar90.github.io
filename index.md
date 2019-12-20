@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [job application code](/job_application_code.py)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/job_application_code.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
