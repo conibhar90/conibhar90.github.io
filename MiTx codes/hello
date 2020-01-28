@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jan 10 09:51:24 2017
+
+@author: FuckYouMicrosoft
+"""
+
+print("Hello World")
+
