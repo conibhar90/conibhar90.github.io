@@ -8,12 +8,12 @@
 <img src="images/job_application_code.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Raspberry Pi Cam(pan/tilt)](/pantiltJoystick.ino)
+<img src="images/Servo part1.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Raspberry Pi Cam(Servo Easing Sinusoidal)](/pantiltSinusoidalEasing.ino)
+<img src="images/Servo Easing part1.png?raw=true"/>
 
 ---
 
