@@ -8,11 +8,11 @@
 <img src="images/job_application_code.png?raw=true"/>
 
 ---
-[Raspberry Pi Cam(pan/tilt)](/pantiltJoystick.ino)
+[Raspberry Pi Cam(pan/tilt)](/Raspberry Pi Cam project/pantiltJoystick.ino)
 <img src="images/Servo part1.png?raw=true"/>
 
 ---
-[Raspberry Pi Cam(Servo Easing Sinusoidal)](/pantiltSinusoidalEasing.ino)
+[Raspberry Pi Cam(Servo Easing Sinusoidal)](/Raspberry Pi Cam project/pantiltSinusoidalEasing.ino)
 <img src="images/Servo Easing part1.png?raw=true"/>
 
 ---
