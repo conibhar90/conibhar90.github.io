@@ -12,7 +12,7 @@
 <img src="images/Servo part 1.png?raw=true"/>
 
 ---
-[Raspberry Pi Cam(Servo Easing Sinusoidal)](/Raspberry Pi Cam project/pantiltSinusoidalEasing.ino)
+[Raspberry Pi Cam(Servo Easing Sinusoidal)](/Raspberry Pi Cam project/pantiltSiusoidalEasing.ino)
 <img src="images/Servo Easing part 1.png?raw=true"/>
 
 ---
