@@ -16,6 +16,12 @@
 <img src="images/Servo Easing part 1.png?raw=true"/>
 
 ---
+[Pi Cam I2C testing(Python)](/Raspberry Pi Cam project/i2c test.py)
+<img src="images/i2c_test.png?raw=true"/>
+
+---
+[Pi Cam I2C testing(Arduino C)](/Raspberry Pi Cam project/i2c test.py)
+<img src="images/I2C_string_com_testing_1.png?raw=true"/>
 
 ### Category Name 2
 
